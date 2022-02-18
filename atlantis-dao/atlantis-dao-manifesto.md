@@ -1,0 +1,2 @@
+# Atlantis DAO Manifesto
+
