@@ -6,6 +6,7 @@ The Atlantis Protocol is currently deployed on the following networks:
 {% tab title="BSC" %}
 | Contract | Address |
 | :--- | :--- | :--- | :--- |
+| ATL  | 0x1fD991fb6c3102873ba68a4e6e6a87B3a5c10271 |
 | aBNB | 0x5A9A90983A369b6bB8F062f0AFe6219Ac01caF63 |
 | aATL | 0x7c0697155617b7A797CB7517d483DbBdB17089CF |
 | aBUSD | 0x0503FEaa5854E55E5607e40371e2a1b0d1B9df7F |
@@ -31,6 +32,8 @@ The Atlantis Protocol is currently deployed on the following networks:
 {% tab title="Polygon" %}
 | Contract | Address |
 | :--- | :--- | :--- | :--- |
+| ATLX | 0x0b68782eFF3177f1F9240B64A7e2F8E0497e2454 |
+| ATL | 0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b |
 | aMATIC | 0xA65722af4957CeF481Edb4cB255f804DD36E8aDc |
 | aATLX | 0x13047b242dd799340FDC1FF8DF8038A06F5b2A38 |
 | aUSDT | 0x02DED9052B696F9848FA909D8923E02c69625ae5 |
@@ -51,6 +54,7 @@ The Atlantis Protocol is currently deployed on the following networks:
 {% tab title="Avalanche" %}
 | Contract | Address |
 | :--- | :--- | :--- | :--- |
+| ATL | 0x90fBE9dfe76F6EF971c7A297641dfa397099a13e |
 | aWAVAX | 0x6bD2154FbC086Cb43411966E0e72584196CCd065 |
 | aATL | 0x13047b242dd799340FDC1FF8DF8038A06F5b2A38 |
 | aUSDC.e | 0xF7cc73A06E9Ada845c314cBe3da075d475EA6357 |
