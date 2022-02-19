@@ -93,7 +93,7 @@
 * [Atlantis DAO Manifesto](atlantis-dao/atlantis-dao-manifesto.md)
 * [Governance](atlantis-dao/governance.md)
 * [Proposals & Voting](atlantis-dao/proposals-and-voting.md)
-* [Atlantis Token Utils](atlantis-dao/atlantis-token-utility.md)
+* [Atlantis Token](atlantis-dao/atlantis-token-utility.md)
 
 ***
 
