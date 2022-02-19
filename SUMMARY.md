@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Get started with Atlantis Loans](README.md)
+* [Get started with Λtlantis Loans](README.md)
 
 ## Getting Started
 
