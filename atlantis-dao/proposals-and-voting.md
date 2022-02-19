@@ -4,6 +4,3 @@
 
 ![](<../.gitbook/assets/telegram_poll.png>)
 
-{% hint style="info" %}
-Example of a poll created on telegram.
-{% endhint %}
